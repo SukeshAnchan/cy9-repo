@@ -3,4 +3,3 @@ addition
 
 code changes
 
-git conflict has been resolved
